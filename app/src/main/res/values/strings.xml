@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="ButtonText">Translate!</string>
+    <string name="Hint">Your Translation</string>
+</resources>
